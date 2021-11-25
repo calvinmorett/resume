@@ -1,6 +1,7 @@
 # web design
+  - bootstrap design
   - github hosting
-  - 
+  - aspiration hosting
 # 3 articles
   - SEO optimizer
   - CMS or Static?
